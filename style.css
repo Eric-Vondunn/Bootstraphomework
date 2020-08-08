@@ -1,4 +1,4 @@
-.index{
+.#index{
     background-color: deepskyblue;
 }
 
@@ -9,4 +9,8 @@
 
 .contact{
     background-color: blanchedalmond;
+}
+
+.container{
+    background: linear-gradient(170deg, lightgray, lightyellow);
 }
